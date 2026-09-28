@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Complaintr/filika/main/apps/web/public/cta-bg.jpg" alt="Complaintr" width="100%">
+  <img src="https://raw.githubusercontent.com/Complaintr/filika/main/apps/web/public/cta-bg.jpg" alt="Complaintr" width="560">
 </p>
 
 <h1 align="center">Complaintr</h1>
@@ -12,4 +12,10 @@
   <a href="https://complaintr.com">Website</a> &middot;
   <a href="https://app.complaintr.com">App</a> &middot;
   <a href="https://docs.complaintr.com">Docs</a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/306752550?v=4" alt="Complaintr" width="48" height="48">
 </p>
