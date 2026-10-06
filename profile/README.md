@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Complaintr/filika/main/apps/web/public/cta-bg.jpg" alt="Complaintr" width="560">
-</p>
-
 <h1 align="center">Complaintr</h1>
 
 <p align="center">
