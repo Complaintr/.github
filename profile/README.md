@@ -1,13 +1,11 @@
-<h1 align="center">Complaintr</h1>
+<h3 align="center">Complaintr</h3>
 
 <p align="center">
   AI powered feedback and complaints, collected from every channel<br>and turned into one clear dashboard.
 </p>
 
 <p align="center">
-  <a href="https://complaintr.com">Website</a> &middot;
-  <a href="https://app.complaintr.com">App</a> &middot;
-  <a href="https://docs.complaintr.com">Docs</a>
+  <a href="https://complaintr.com">Website</a>
 </p>
 
 <br>
